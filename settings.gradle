@@ -1,0 +1,2 @@
+rootProject.name = "MyBinder"
+include ':app'
